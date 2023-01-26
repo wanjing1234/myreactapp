@@ -20,7 +20,6 @@ function App() {
       </header>
     </div>
   );
-console.log('process.env', process.env)
 }
 
 export default App;
